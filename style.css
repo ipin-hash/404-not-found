@@ -101,7 +101,7 @@ footer a {
   text-decoration: none;
 }
 
-@media (max-width : 375x) {
+@media (max-width : 500px) {
   h3.title {
     font-size: 14px;
   }
